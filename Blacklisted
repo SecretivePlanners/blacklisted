@@ -1,1 +1,5 @@
-_G.BlacklistedTable = {}
+_G.BlacklistedTable = {
+3778901745,
+3781048825,
+1432501831
+}
