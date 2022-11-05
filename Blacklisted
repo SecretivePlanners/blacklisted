@@ -1,11 +1,4 @@
 _G.BlacklistedTable = {
-3778901745,
-3781048825,
-1432501831,
-3781095335,
-2570845719,
-1731775136,
-483205565
 }
---1731775136  lowkey
---483205565 sensaimax
+-- Is no longer used, So I cleared the list.
+-- To any who were blacklisted I hope you can enjoy the GUI once again.
